@@ -1,2 +1,6 @@
 # Study-Planner
 Advance PHP
+
+BERNARD BOAKYE
+UEB3258122
+IT D LEVEL 3OO
